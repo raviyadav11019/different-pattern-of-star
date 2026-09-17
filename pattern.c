@@ -1,4 +1,11 @@
 //this is first normal start pattern
+/*
+*
+**
+***
+****
+*****
+*/
 
 #include<stdio.h>
 int main(){
@@ -11,7 +18,14 @@ int main(){
         }
     }
 
-//this is second square box pattern 
+//this is second square box pattern
+/*
+12345
+12345
+12345
+12345
+12345
+*/ 
 
 int m,o;
 for(m=1;m<=5;m++){
@@ -23,6 +37,13 @@ for(m=1;m<=5;m++){
 printf("\n");
 
 //this is third number pattern like first star type question
+/*
+1
+12
+123
+1234
+12345
+*/
 
 int p,q;
 for(p=1;p<=5;p++){
@@ -35,5 +56,12 @@ return 0;
 }
 
 //this is fourth tiangle star pattern 
+/*
+     *
+   *   *
+  *  *  *
+ *  *  *  *
+*  *  *  *  *
+*/
 
 int x,y;
